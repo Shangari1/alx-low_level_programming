@@ -1,0 +1,2 @@
+gcc .
+printf.($CFILE, c\n)
