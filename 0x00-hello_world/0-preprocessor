@@ -1,2 +1,2 @@
-gcc .
-printf.($CFILE, c\n)
+#!/bin/bash
+gcc
