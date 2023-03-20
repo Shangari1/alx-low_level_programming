@@ -1,2 +1,2 @@
 #!/bin/bash
-c program
+echo C program README.md
